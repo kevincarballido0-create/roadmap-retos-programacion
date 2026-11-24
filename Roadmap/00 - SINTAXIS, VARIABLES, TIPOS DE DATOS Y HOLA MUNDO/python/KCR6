@@ -14,4 +14,4 @@ Probabilidades = 1,4
 Apodo = "Rekordmeister"
 Mejores = True
 
-print = (Hola , Python)
+print = ("Hola , Python")
